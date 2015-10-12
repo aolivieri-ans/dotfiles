@@ -5,5 +5,5 @@ install:
 	cp .gitignore ~/.gitignore
 
 update:
-	cp ~/.vimrc .vimr
+	cp ~/.vimrc .vimrc
 	cp ~/.gitignore .gitignore
