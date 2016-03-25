@@ -1,0 +1,6 @@
+<keymap version="1" name="ECLI" parent="Eclipse">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="control W" />
+  </action>
+</keymap>
